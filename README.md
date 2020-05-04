@@ -1,5 +1,5 @@
-# The Next Web Project
- This is a project meant to demonstrate visual heirarchy  through the use of heat map on the smashing magazine homepage.
+# Using-bootstrap
+ This is a demo of bootstrap usage through cloning of the News Week Magazine
 
 ![screenshot](./Assets/images/screenshot.png)
     
@@ -15,7 +15,7 @@
 
 ## Milestone
 
-  To match with the original click [here](https://thenextweb.com/)
+  To match with the original click [here](https://www.newsweek.com/)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -56,15 +56,6 @@ To get a local copy up and running follow these simple example steps.
 - Github: [@teshager21](https://github.com/teshager21)
 - Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
 - Linkedin: [Teshager Admasu](https://www.linkedin.com/in/teshager-admasu-0000011a2/)
-
-## Authors
-
-👤 **Author**
-
-- Gmail: [Jasem Valencia](mailto:jasemvalencia@gmail.com)
-- Github: [@githubhandle](https://github.com/JasemDuncan)
-- Twitter: [@twitterhandle](https://twitter.com/JasemValencia)
-- Linkedin: [@linkedin](www.linkedin.com/in/Jasem-Duncan-Valencia)
 
 ## 🤝 Contributing
 
