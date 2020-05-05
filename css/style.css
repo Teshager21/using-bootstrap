@@ -1,47 +1,46 @@
 html {
- font-family: 'Roboto Condensed', sans-serif;
- font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Lora', serif;
 }
 
-body{
- font-family: 'Roboto Condensed', sans-serif;
+body {
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .header-top {
- background-color: red;
- font-size: 0.88rem;
+  background-color: red;
+  font-size: 0.88rem;
 }
 
 .logo {
- width: 35vw;
- background-color: red;
+  width: 35vw;
+  background-color: red;
 }
 
 .more {
- width: 5vw;
+  width: 5vw;
 }
 
 /* =======================================================================
-                      article                                           
+                      article
 ======================================================================= */
 
 .category {
-bottom:0;
-left:0;
-font-size: 17px;
-background-color: rgba(255,255,255,.9);
+  bottom: 0;
+  left: 0;
+  font-size: 17px;
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 h3 {
- font-size: 20px;
+  font-size: 20px;
 }
+
 .summary {
- font-family:Arial, Helvetica, sans-serif;
- font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
 }
+
 .h2 {
- font-size: 22px;
+  font-size: 22px;
 }
-
-
-
