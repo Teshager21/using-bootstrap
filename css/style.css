@@ -6,10 +6,6 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-/* .header-top {
-  font-size: 0.88rem;
-} */
-
 .logo {
   width: 35vw;
   fill: #fff;
@@ -49,4 +45,12 @@ h3 {
 
 .image img {
   width: 100%;
+}
+
+.h5 {
+  font-size: 14px;
+}
+
+.lazy-black {
+  color:#555;
 }
