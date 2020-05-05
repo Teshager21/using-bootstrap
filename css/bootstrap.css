@@ -5125,12 +5125,14 @@ a.badge:hover, a.badge:focus {
   background-color: #007bff;
 }
 
-a.badge-primary:hover, a.badge-primary:focus {
+a.badge-primary:hover,
+ a.badge-primary:focus {
   color: #fff;
   background-color: #0062cc;
 }
 
-a.badge-primary:focus, a.badge-primary.focus {
+a.badge-primary:focus,
+ a.badge-primary.focus {
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
 }
@@ -5156,13 +5158,13 @@ a.badge-secondary:focus, a.badge-secondary.focus {
 }
 
 a.badge-success:hover,
- a.badge-success:focus {
+a.badge-success:focus {
   color: #fff;
   background-color: #1e7e34;
 }
 
 a.badge-success:focus,
- a.badge-success.focus {
+a.badge-success.focus {
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
 }
