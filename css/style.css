@@ -13,12 +13,35 @@ body{
 }
 
 .logo {
- width: 30vw;
+ width: 35vw;
  background-color: red;
 }
 
 .more {
  width: 5vw;
 }
+
+/* =======================================================================
+                      article                                           
+======================================================================= */
+
+.category {
+bottom:0;
+left:0;
+font-size: 17px;
+background-color: rgba(255,255,255,.9);
+}
+
+h3 {
+ font-size: 20px;
+}
+.summary {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size: 13px;
+}
+.h2 {
+ font-size: 22px;
+}
+
 
 

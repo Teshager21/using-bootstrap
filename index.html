@@ -13,26 +13,116 @@
     <title>Newsweek</title>
   </head>
   <body>
-    <header class="container-fluid header-top d-flex align-items-center justify-content-between py-2">
-      <div >
-        <!-- <date>Mon, May 04, 2020</date> -->
-      </div>
+    <header
+      class="container-fluid header-top d-flex align-items-center justify-content-between py-2"
+    >
+      <!--  <div >
+         <date>Mon, May 04, 2020</date> -->
+      <!--   </div> -->
       <div d-flex class="logo-container">
-        <img class="logo" src="./Assets/logo.svg" alt="#"/>
+        <img class="logo" src="./Assets/logo.svg" alt="#" />
       </div>
-      <div class="header-items d-flex align-items-center ">
+      <div class="header-items d-flex align-items-center">
         <div>
-          <a href="" class="text-uppercase text-white px-2 font-weight-bold">signin</a>
+          <a href="" class="text-uppercase text-white px-2 font-weight-bold"
+            >sign in</a
+          >
         </div>
         <div class="d-flex bg-white py-1 mr-2">
-          <a href="" class="text-uppercase text-white px-2 font-weight-bold text-danger">Subscribe</a>
-         <!--  <img class="more" src="./Assets/subscribe.svg" alt="" srcset="" /> -->
+          <a
+            href=""
+            class="text-uppercase text-white px-2 font-weight-bold text-danger"
+            >Subscribe</a
+          >
+          <!--  <img class="more" src="./Assets/subscribe.svg" alt="" srcset="" /> -->
         </div>
         <div>
           <a href=""><i class="fas fa-bars fa-2x text-white"></i></a>
         </div>
       </div>
     </header>
+
+                                   <!--   Main -->
+
+
+    <main>
+      <div class="content top-story border border-danger">
+        <div class="block-title text-uppercase text-secondary font-weight-bolder">top story</div>
+        <article>
+          <div class='wrap position-relative'>
+            <div class="category position-absolute"><a class="text-danger bg-light font-weight-bolder px-2 py-1" href="/us">U.S.</a></div>
+            <div class="image">
+              <a href="#">
+                <img src="https://d.newsweek.com/en/full/1587263/dr-anthony-fauci.jpg?w=591&amp;h=364&amp;f=8bf4f94d779bd5136a5450a70e1b29d7"
+                  alt="Dr. Anthony Fauci"/>
+              </a>
+            </div>
+          </div>
+          <h1 class="h2">
+            <a class="font-weight-bold text-dark"
+              href="/dr-fauci-dismisses-wuhan-lab-source-coronavirus-contradicting-trump-pompeo-1501924"
+              >Dr. Fauci Dismisses Wuhan Lab as Source of Coronavirus,
+              Contradicting Trump</a
+            >
+          </h1>
+          <div class="summary">
+            "If you look at the evolution of the virus in bats and what's out
+            there now, [the scientific evidence] is very, very strongly leaning
+            toward this could not have been artificially or deliberately
+            manipulated," Fauci said.
+          </div>
+          <div class="content__related bg-light">
+            <div class="content">
+              <div class="image">
+                <a
+                  href="/controversial-wuhan-lab-experiments-that-may-have-started-coronavirus-pandemic-1500503"
+                >
+                  <img src="https://d.newsweek.com/en/full/1585050/wuhan-institute-virology-covid-19-coronavirus-lab.jpg?w=95&amp;h=95&amp;f=9c4cbc504f55013d9ad6e03cb3744d4b"alt="Wuhan Institute of Virology Covid-19 coronavirus lab"/>
+                </a>
+              </div>
+              <h1 class='h2'>
+                <a class="font-weight-bolder text-dark"
+                  href="/controversial-wuhan-lab-experiments-that-may-have-started-coronavirus-pandemic-1500503"
+                  >The Controversial Experiments and Wuhan Lab Suspected of
+                  Starting the Coronavirus Pandemic</a
+                >
+              </h1>
+              <div class="summary">
+                After reporting that Covid-19 occurred naturally, U.S.
+                intelligence modified its stance to say it might have leaked from
+                a lab.
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+                <!-- FEATURED STORIES -->
+      
+
+<div class="content bg-warining">
+  <div class="block-title font-weight-bold text-secondary">
+    FEATURED STORIES</div>
+<article>
+  <div class='wrap position-relative'>
+    <div class="category position-absolute px-2 py-1 bg-light"><a class="text-danger font-weight-bolder"href="#">World</a></div>
+    <div class="image">
+      <a href="/these-doctors-nurses-are-crossing-border-every-day-help-asylum-seekers-forced-remain-mexico-1501495">
+      <img src="https://d.newsweek.com/en/full/1587033/isaac.jpg?w=397&amp;h=265&amp;l=50&amp;t=50&amp;q=90&amp;f=2d56bd657fef415aeadcac2415d90d9d" alt="Isaac">
+      </>
+      </a></div>
+  </div>
+    <h3>
+      <a class="font-weight-bold text-dark"href="/these-doctors-nurses-are-crossing-border-every-day-help-asylum-seekers-forced-remain-mexico-1501495">The Doctors and Nurses Crossing the Border Daily to Help Asylum Seekers</a></h3>
+      <div class="summary">"They deserve to be thought about just as much as any other person," said Dr. Andrea Gaspar.</div>
+
+</article>
+
+</div>
+
+
+
+
+    </main>
 
     <script src="./js/bootstrap.min.js"></script>
   </body>
