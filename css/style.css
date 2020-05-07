@@ -135,3 +135,12 @@ h3 {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.overlap2 {
+  margin-left: -15%;
+  margin-top: 5%;
+}
+
+.bg-light-gray {
+  background-color: #f4f5f6;
+}
