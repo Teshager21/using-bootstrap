@@ -11,6 +11,11 @@ body {
   fill: #fff;
 }
 
+.logo-danger {
+  width: 35vw;
+  fill: #f92859;
+}
+
 .more {
   width: 5vw;
 }
