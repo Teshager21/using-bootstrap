@@ -11,8 +11,8 @@ body {
 }
 
 .logo-danger {
-  width: 40vw;
-  fill: #f92859;
+  width: 20%;
+  fill: #dc3545;
 }
 
 .more {
@@ -152,4 +152,19 @@ h3 {
 .footer-links-menu {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 18px;
+}
+
+@media (min-width: 992px) {
+  .header-bottom::before {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 80px 0  30px;
+    border-color: #f72210 #f72210 transparent transparent;
+    z-index: 99999;
+  }
 }
