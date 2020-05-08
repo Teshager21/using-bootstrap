@@ -4,12 +4,14 @@ body {
 }
 
 .logo {
-  width: 35vw;
+  width: 60%;
   fill: #fff;
+
+  /* height: 60%; */
 }
 
 .logo-danger {
-  width: 35vw;
+  width: 40vw;
   fill: #f92859;
 }
 
