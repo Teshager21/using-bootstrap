@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
     1. Click on the install or download button under the repository name and grab the url
     by clicking on the clipboard icon
 
-![Step-1](./Assets/images/howtoinstall.png)
+![Step-1](./Assets/howtoinstall.png)
 
     2.open your terminal
 
@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
     Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Teshager21/The-Next-Web-Clone/issues).
+Feel free to check the [issues page](https://github.com/Teshager21/using-bootstrap/issues).
 
 ## Show your support
 
