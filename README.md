@@ -1,7 +1,7 @@
 # Using-bootstrap
  This is a demo of bootstrap usage through cloning of the News Week Magazine
 
-![screenshot](./Assets/images/screenshot.png)
+![screenshot](./Assets/screenshot.png)
     
 
 ## Built With
