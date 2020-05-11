@@ -13,12 +13,15 @@
   fill: #dc3545;
 }
 
-.more {
-  width: 5vw;
+.text-decoration-danger:hover {
+  text-decoration-color: #dc3545 !important;
 }
 
-.container {
-  width: 90%;
+.header-bottom .hover-text-danger:hover,
+.latest-stories .hover-text-danger:hover,
+.opinion-block .hover-text-danger:hover {
+  color: #dc3545 !important;
+  text-decoration: none;
 }
 
 /* =======================================================================
