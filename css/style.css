@@ -173,14 +173,10 @@
     border-color: #f72210 #f72210 transparent transparent;
     z-index: 999;
   }
+}
 
-  .rotating-pic {
-    object-fit: cover;
-  }
-
-  @media (min-width: 767px) {
-    .break::before {
-      display: none;
-    }
+@media (min-width: 767px) {
+  .break::before {
+    display: none;
   }
 }
