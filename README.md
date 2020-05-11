@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Teshager21/using-bootstrap/f425768a74acdac938822f91c2ff8e7595cdc107/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Teshager21/using-bootstrap/a0dd8f6fa65081cd4bcd48a63cdbbcdfb13cb785/index.html)
 ## Milestone
 
   To match with the original click [here](https://www.newsweek.com/)
