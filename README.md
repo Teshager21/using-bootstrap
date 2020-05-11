@@ -1,7 +1,7 @@
-# The Next Web Project
- This is a project meant to demonstrate visual heirarchy  through the use of heat map on the smashing magazine homepage.
+# Using-bootstrap
+ This is a demo of bootstrap usage through cloning of the News Week Magazine
 
-![screenshot](./Assets/images/screenshot.png)
+![screenshot](./Assets/screenshot.png)
     
 
 ## Built With
@@ -11,11 +11,10 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Teshager21/The-Next-Web-Clone/bcfaea4a14c0a394ed48b074b97004859240470b/index.html)
-
+[Live Demo Link](https://rawcdn.githack.com/Teshager21/using-bootstrap/982fcfa579ad589719de69b326e9c3f3edd4de6c/index.html)
 ## Milestone
 
-  To match with the original click [here](https://thenextweb.com/)
+  To match with the original click [here](https://www.newsweek.com/)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -25,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
     1. Click on the install or download button under the repository name and grab the url
     by clicking on the clipboard icon
 
-![Step-1](./Assets/images/howtoinstall.png)
+![Step-1](./Assets/howtoinstall.png)
 
     2.open your terminal
 
@@ -57,20 +56,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
 - Linkedin: [Teshager Admasu](https://www.linkedin.com/in/teshager-admasu-0000011a2/)
 
-## Authors
-
-👤 **Author**
-
-- Gmail: [Jasem Valencia](mailto:jasemvalencia@gmail.com)
-- Github: [@githubhandle](https://github.com/JasemDuncan)
-- Twitter: [@twitterhandle](https://twitter.com/JasemValencia)
-- Linkedin: [@linkedin](www.linkedin.com/in/Jasem-Duncan-Valencia)
-
 ## 🤝 Contributing
 
     Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Teshager21/The-Next-Web-Clone/issues).
+Feel free to check the [issues page](https://github.com/Teshager21/using-bootstrap/issues).
 
 ## Show your support
 
