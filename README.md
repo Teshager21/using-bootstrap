@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Teshager21/using-bootstrap/982fcfa579ad589719de69b326e9c3f3edd4de6c/index.html)
+[Live Demo Link](https://newsweek-by-teshager.netlify.app/)
 ## Milestone
 
   To match with the original click [here](https://www.newsweek.com/)
